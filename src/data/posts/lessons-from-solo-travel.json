@@ -1,0 +1,15 @@
+{
+  "slug": "lessons-from-solo-travel",
+  "title": "Lessons from Solo Travel",
+  "excerpt": "Traveling alone isn't just about seeing new places; it's about discovering the version of yourself that exists when no one is watching.",
+  "date": "February 28, 2026",
+  "coverImage": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=1200",
+  "tags": ["Travel", "Self-Growth"],
+  "content": [
+    { "type": "paragraph", "text": "I remember the first time I sat in a crowded cafe in a city where I didn't speak the language, eating a meal by myself. I felt exposed, certain that everyone was pitying the lonely girl at table four. But as the minutes passed, I realized no one cared. They were all busy with their own lives." },
+    { "type": "heading", "text": "The Freedom of Anonymity" },
+    { "type": "paragraph", "text": "Solo travel strips away the labels we carry. You aren't 'the engineer' or 'the sister' or 'the friend.' You are just a person navigating a new space. This anonymity is incredibly freeing. You can be whoever you want to be, or better yet, you can finally be who you actually are." },
+    { "type": "image", "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&q=80&w=1000", "alt": "A lone traveler looking over a valley" },
+    { "type": "paragraph", "text": "You learn to trust your intuition. When you're the only one responsible for your safety and your schedule, you develop a keen sense of awareness. You learn that you are more capable than you ever gave yourself credit for." }
+  ]
+}

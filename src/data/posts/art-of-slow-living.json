@@ -1,0 +1,15 @@
+{
+  "slug": "art-of-slow-living",
+  "title": "The Art of Slow Living",
+  "excerpt": "In a world that rewards speed and constant productivity, choosing to slow down is a radical act of self-care.",
+  "date": "April 10, 2026",
+  "coverImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80&w=1200",
+  "tags": ["Lifestyle", "Mindfulness"],
+  "content": [
+    { "type": "paragraph", "text": "I used to pride myself on my ability to multitask. I would answer emails while eating lunch, listen to podcasts while walking, and plan my next week while lying in bed at night. I thought I was being efficient. In reality, I was just being absent." },
+    { "type": "heading", "text": "Reclaiming Your Time" },
+    { "type": "paragraph", "text": "Slow living isn't about doing things at a snail's pace. It's about doing things at the right pace. It's about being present in whatever you are doing, whether it's drinking a cup of coffee or finishing a complex project at work." },
+    { "type": "image", "src": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=1000", "alt": "Cozy morning scene with coffee and sunlight" },
+    { "type": "paragraph", "text": "Since I started practicing mindfulness, the colors seem brighter, the food tastes better, and I feel a profound sense of gratitude for the small things. I've stopped chasing the next big thing and started appreciating the current small thing." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "finding-peace-in-mountains",
+  "title": "Finding Peace in the Mountains",
+  "excerpt": "Sometimes the best conversations happen in silence, surrounded by nothing but the majestic peaks and the whispering wind.",
+  "date": "March 15, 2026",
+  "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200",
+  "tags": ["Travel", "Reflection"],
+  "content": [
+    { "type": "paragraph", "text": "The air was thin and cold, a sharp contrast to the humid warmth of the city I had left behind just twenty-four hours ago. As I stood at the edge of the ridge, the sun began its slow ascent, painting the snow-capped peaks in shades of apricot and gold." },
+    { "type": "heading", "text": "The Silence of the Heights" },
+    { "type": "paragraph", "text": "There is a specific kind of silence you only find at high altitudes. It's not an absence of sound, but a presence of stillness. You hear the heartbeat of the earth, the rustle of dry grass, and the distant cry of an eagle. It forces you to listen to your own thoughts, which can be both terrifying and liberating." },
+    { "type": "image", "src": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&q=80&w=1000", "alt": "Mountain peaks at sunrise" },
+    { "type": "paragraph", "text": "We often spend our lives running away from ourselves, filling every moment with noise and distraction. But here, with nowhere to go and nothing to do but exist, I found a strange kind of peace. I realized that the mountains don't care about our deadlines, our anxieties, or our triumphs. They just are." },
+    { "type": "quote", "text": "The mountains are calling, and I must go." }
+  ]
+}

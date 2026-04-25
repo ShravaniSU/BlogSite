@@ -1,0 +1,14 @@
+{
+  "slug": "rainy-day-reflections",
+  "title": "Rainy Day Reflections",
+  "excerpt": "There is a unique kind of nostalgia that only comes with the sound of rain against glass.",
+  "date": "April 20, 2026",
+  "coverImage": "https://images.unsplash.com/photo-1534274988757-a28bf1f5a97c?auto=format&fit=crop&q=80&w=1200",
+  "tags": ["Reflections", "Personal"],
+  "content": [
+    { "type": "paragraph", "text": "Today it rained. Not a storm, but a steady, gentle drizzle that draped the world in a soft gray veil. I spent the afternoon curled up by the window, watching the drops race each other down the pane." },
+    { "type": "paragraph", "text": "Rainy days have always been a time for reflection for me. They force us indoors, both physically and mentally. They invite us to look backward, to remember people we've lost touch with and places we haven't visited in years." },
+    { "type": "quote", "text": "Some people feel the rain. Others just get wet." },
+    { "type": "paragraph", "text": "I think we need these quiet, gray moments to balance the bright, busy ones. They are the punctuation marks in the story of our lives." }
+  ]
+}
