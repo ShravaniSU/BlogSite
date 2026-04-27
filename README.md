@@ -3,7 +3,7 @@
 This project demonstrates how to deploy a static website using a Linux server and Nginx. The goal was to understand the fundamentals of web servers, file transfers, and deployment workflows.
 
 This project is based on the roadmap.sh challenge:
-👉 https://roadmap.sh/projects/static-site-server
+👉 https://roadmap.sh/projects/static-site-server and https://roadmap.sh/projects/basic-dns
 
 ---
 
